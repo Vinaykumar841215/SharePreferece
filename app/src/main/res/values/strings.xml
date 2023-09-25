@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharePreferece</string>
+    <string name="enter_you_name">Enter You Name</string>
+    <string name="enter_you_email">Enter You Email</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+</resources>
